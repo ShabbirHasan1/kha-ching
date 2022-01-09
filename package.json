@@ -36,7 +36,7 @@
     "memoizee": "^0.4.15",
     "nanoid": "^3.1.23",
     "next": "^11.1.0",
-    "next-iron-session": "^4.1.11",
+    "next-iron-session": "^4.2.0",
     "next-pwa": "5.2.24",
     "qs": "^6.10.1",
     "react": "^17.0.2",
